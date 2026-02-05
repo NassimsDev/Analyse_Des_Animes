@@ -1,0 +1,62 @@
+Rang,Anime,Genre_Tags,Source,Nb_Episodes,Status,Studio,Date_Pub,Note_Globale,Note_Meilleur_Ep,Note_Pire_Ep,Ecart,Score_Regularite,Score_Longueur,Score_Final
+1,Monster,Thriller / Mystery,Manga,74,Fini,Madhouse,2004,8.9,9.1,7.4,1.7,8.3,6.9,8.26
+2,Hajime no Ippo,Sport / Boxing,Manga,76,Fini,Madhouse,2000,8.8,9.2,7.5,1.7,8.3,7.0,8.24
+3,Yū Yū Hakusho,Action / Supernatural,Manga,112,Fini,Studio Pierrot,1992,8.5,9.1,7.3,1.8,8.2,7.6,8.2
+4,Vinland Saga,Adventure / Drama,Manga,48,En cours,Wit Studio / MAPPA,2019,8.8,8.9,7.4,1.5,8.5,6.2,8.16
+5,One Piece,Adventure / Shonen,Manga,1090,En cours,Toei Animation,1999,8.7,9.8,5.6,4.2,5.8,11.3,8.06
+6,Your Lie in April,Drama / Music,Manga,22,Fini,A-1 Pictures,2014,8.6,9.5,8.4,1.1,8.9,5.0,8.0
+7,SPY×FAMILY,Comedy / Slice of Life,Manga,37,En cours,Wit / CloverWorks,2022,8.4,9.1,7.8,1.3,8.7,5.8,8.0
+8,GTO,Comedy / Slice of Life,Manga,43,Fini,Studio Pierrot,1999,8.7,9.2,7.4,1.8,8.2,6.1,7.98
+9,Frieren: Beyond Journey's End,Adventure / Fantasy,Manga,28,En cours,Madhouse,2023,9.3,9.4,7.3,2.1,7.9,5.4,7.96
+10,Mushishi,Slice of Life / Supernatural,Manga,26,Fini,Artland,2005,8.7,9.4,8.0,1.4,8.6,5.2,7.96
+11,Fairy Tail,Adventure / Magic,Manga,328,En cours,A-1 Pictures,2009,7.6,9.7,7.3,2.4,7.6,9.3,7.94
+12,Kuroko's Basket,Sport / Basketball,Manga,75,Fini,Production I.G,2012,8.1,9.0,7.3,1.7,8.3,6.9,7.94
+13,Haikyuu!!,Sport / Volley,Manga,85,Fini,Production I.G,2014,8.7,9.9,7.5,2.4,7.6,7.1,7.94
+14,Steins;Gate,Sci-Fi / Thriller,Visual Novel,24,Fini,White Fox,2011,9.1,9.7,7.8,1.9,8.1,5.1,7.9
+15,Dragon Ball Z,Action / Shonen,Manga,291,Fini,Toei Animation,1989,8.7,9.4,5.9,3.5,6.5,9.1,7.9
+16,Les Carnets de l'apothicaire,Mystery / Historical,Light Novel,24,En cours,OLM,2023,8.8,9.5,7.9,1.6,8.4,5.1,7.9
+17,One Outs,Sport / Psychological,Manga,25,Fini,Madhouse,2008,8.3,8.5,7.2,1.3,8.7,5.2,7.84
+18,Dr. Stone,Sci-Fi / Adventure,Manga,57,En cours,TMS Entertainment,2019,8.3,9.1,7.1,2.0,8.0,6.5,7.82
+19,Claymore,Action / Dark Fantasy,Manga,26,Fini,Madhouse,2007,7.7,8.4,7.6,0.8,9.2,5.2,7.8
+20,Claymore,Action / Dark Fantasy,Manga,26,Fini,Madhouse,2007,7.7,8.4,7.6,0.8,9.2,5.2,7.8
+21,Chainsaw Man,Action / Horror,Manga,12,En cours,MAPPA,2022,8.4,8.7,7.7,1.0,9.0,4.0,7.76
+22,Mob Psycho 100,Action / Supernatural,Manga,37,Fini,Bones,2016,8.5,9.5,7.5,2.0,8.0,5.8,7.76
+23,The Eminence in Shadow,Action / Isekai,Light Novel,32,En cours,Nexus,2022,8.2,9.0,7.4,1.6,8.4,5.6,7.76
+24,Jujutsu Kaisen,Action / Supernatural,Manga,47,En cours,MAPPA,2020,8.6,9.8,7.5,2.3,7.7,6.2,7.76
+25,Zetsuen No Tempest,Mystery / Fantasy,Manga,24,Fini,Bones,2012,7.9,8.5,7.4,1.1,8.9,5.1,7.74
+26,Samurai Champloo,Adventure / Chanbara,Original,26,Fini,Manglobe,2004,8.5,9.2,7.4,1.8,8.2,5.2,7.72
+27,Mashle: Magic and Muscles,Comedy / Action,Manga,24,En cours,A-1 Pictures,2023,7.6,8.4,7.5,0.9,9.1,5.1,7.7
+28,Death Note,Thriller / Supernatural,Manga,37,Fini,Madhouse,2006,8.6,9.5,7.2,2.3,7.7,5.8,7.68
+29,Hunter x Hunter (2011),Adventure / Shonen,Manga,148,Fini,Madhouse,2011,9.0,9.7,5.9,3.8,6.2,8.0,7.68
+30,Kenshin le Vagabond,Action / Historical,Manga,95,Fini,Studio Gallop / Deen,1996,8.3,9.0,6.2,2.8,7.2,7.3,7.66
+31,Fullmetal Alchemist: Brotherhood,Aventure / Military,Manga,64,Fini,Bones,2009,9.1,9.6,6.3,3.3,6.7,6.7,7.66
+32,Code Geass,Sci-Fi / Mecha,Original,50,Fini,Sunrise,2006,8.7,9.8,7.1,2.7,7.3,6.3,7.66
+33,Parasite: La Maxime,Sci-Fi / Horror,Manga,24,Fini,Madhouse,2014,8.3,9.3,7.6,1.7,8.3,5.1,7.66
+34,Re:Zero,Isekai / Psychologique,Light Novel,50,Fini,White Fox,2016,8.2,9.8,7.6,2.2,7.8,6.3,7.66
+35,Demon Slayer: Kimetsu no Yaiba,Action / Supernatural,Manga,55,En cours,Ufotable,2019,8.5,9.9,7.3,2.6,7.4,6.4,7.64
+36,Made in Abyss,Adventure / Mystery,Manga,25,En cours,Kinema Citrus,2017,8.6,9.6,7.5,2.1,7.9,5.2,7.64
+37,L'Attaque des Titans,Action / Mystery,Manga,89,Fini,Wit Studio / MAPPA,2013,8.5,9.9,6.8,3.1,6.9,7.2,7.6
+38,L'Attaque des Titans,Action / Mystery,Manga,89,Fini,Wit Studio / MAPPA,2013,8.5,9.9,6.8,3.1,6.9,7.2,7.6
+39,Naruto,Action / Shonen,Manga,220,Fini,Studio Pierrot,2002,8.4,9.6,5.8,3.8,6.2,8.7,7.58
+40,Du mouvement de la Terre,Historical / Drama,Manga,8,Fini,Madhouse,2024,8.4,8.9,7.8,1.1,8.9,3.3,7.58
+41,Cowboy Bebop,Sci-Fi / Noir,Original,26,Fini,Sunrise,1998,8.8,9.7,7.2,2.5,7.5,5.2,7.56
+42,Demon Slayer,Action / Historical,Manga,55,En cours,Ufotable,2019,8.5,9.9,7.1,2.8,7.2,6.4,7.56
+43,Psycho-Pass,Sci-Fi / Police,Original,41,Fini,Production I.G,2012,8.3,9.2,6.5,2.7,7.3,6.0,7.44
+44,Dan Da Dan,Action / Supernatural,Manga,12,En cours,Science SARU,2024,8.4,9.7,7.9,1.8,8.2,4.0,7.44
+45,Hell's Paradise,Action / Dark Fantasy,Manga,13,En cours,MAPPA,2023,7.7,8.3,7.1,1.2,8.8,4.1,7.42
+46,JoJo's Bizarre Adventure,Action / Supernatural,Manga,26,Fini,David Production,2012,8.0,9.1,6.9,2.2,7.8,5.2,7.36
+47,My Hero Academia: Vigilantes,Action / Super Power,Manga,13,En cours,Bones,2025,7.6,8.6,7.3,1.3,8.7,4.1,7.34
+48,One Punch Man,Action / Comedy,Web Manga,24,En cours,Madhouse,2015,8.5,9.6,6.8,2.8,7.2,5.1,7.3
+49,Trigun,Sci-Fi / Action,Manga,26,Fini,Madhouse,1998,8.2,9.1,6.5,2.6,7.4,5.2,7.28
+50,Naruto Shippuden,Action / Shonen,Manga,500,Fini,Studio Pierrot,2007,8.2,9.7,4.3,5.4,4.6,10.0,7.12
+51,Blue Lock,Sport / Thriller,Manga,36,En cours,8bit,2022,8.2,9.3,6.0,3.3,6.7,5.8,7.12
+52,Bleach,Action / Supernatural,Manga,366,Fini,Studio Pierrot,2004,7.9,9.7,4.8,4.9,5.1,9.5,7.1
+53,My Hero Academia,Action / Super Power,Manga,138,En cours,Bones,2016,7.9,9.6,5.5,4.1,5.9,7.9,7.1
+54,Erased,Mystery / Supernatural,Manga,12,Fini,A-1 Pictures,2016,8.3,9.4,6.8,2.6,7.4,4.0,7.08
+55,Solo Leveling,Action / Fantasy,Manhwa,12,En cours,A-1 Pictures,2024,8.3,9.5,6.2,3.3,6.7,4.0,6.8
+56,Sword Art Online,Isekai / Romance,Light Novel,25,Fini,A-1 Pictures,2012,7.2,8.9,5.9,3.0,7.0,5.2,6.72
+57,The Promised Neverland,Mystery / Horror,Manga,23,Fini,CloverWorks,2019,8.5,9.8,5.3,4.5,5.5,5.0,6.6
+58,Tokyo Ghoul,Horror / Action,Manga,48,Fini,Studio Pierrot,2014,7.5,9.6,5.2,4.4,5.6,6.2,6.48
+59,Black Clover,Action / Fantasy,Manga,170,En pause,Studio Pierrot,2017,8.1,9.7,2.7,7.0,3.0,8.3,6.1
+60,Boruto: Naruto Next Generations,Action / Shonen,Manga,293,En pause,Studio Pierrot,2017,6.0,9.9,4.3,5.6,4.4,9.1,5.98
+61,Medalist,Sport / Figure Skating,Manga,3,En cours,ENGI,2025,8.0,8.2,0.0,8.2,1.8,1.8,4.28
